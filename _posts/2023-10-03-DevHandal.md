@@ -34,14 +34,14 @@ Mengapa DeveloperHandal?
    Webinar DeveloperHandal memberikanmu kesempatan untuk mendapatkan wawasan dan pengetahuan tambahan dari para ahli di bidangnya.
 
 Selain itu berikut Fasilitas Beasiswa yang bisa kamu dapatkan setelah mengikuti program ini:
-\*Akses ke Kelas Online 1 Tahun
-\*Materi Pelajaran yang Update
-\*Forum Tanya Jawab
-\*Webinar
-\*Mentor Profesional
-\*Proyek Praktik
-\*Sertifikasi Internasional
-\*Komunitas Belajar
+⋅⋅*Akses ke Kelas Online 1 Tahun
+⋅⋅*Materi Pelajaran yang Update
+⋅⋅*Forum Tanya Jawab
+⋅⋅*Webinar
+⋅⋅*Mentor Profesional
+⋅⋅*Proyek Praktik
+⋅⋅*Sertifikasi Internasional
+⋅⋅*Komunitas Belajar
 
 Dan yang paling pentingnya adalah dengan mengikuti program Beasiswa DeveloperHandal, kamu akan berkesempatan mendapatkan Alibaba Cloud Certified Developer dan Certified ACA Cloud Computing yang di akui secara international. Dengan sertifikasi ini, profilmu akan lebih keren dimata perusahaan, baik itu perusahaan lokal maupun international.
 
@@ -53,6 +53,9 @@ Di sini kamu belajar membuat Wordpress menggunakan produk ECS dari Alibaba Cloud
 
 Selain dari hal-hal mengenai program ini, kamu juga bisa bergabung dengan komunitas CODEPOLITAN di telegram yang membantu kamu jika kamu mengalami kendala. Jadi tunggu apalagi ayo daftar [DeveloperHandal](https://devhandal.id?reference=KYGJP)!
 
-Untuk informasi lengkapnya jangan lupa kunjungi juga: \*[DeveloperHandal](https://devhandal.id?reference=KYGJP) \*[CODEPOLITAN](https://www.codepolitan.com/) \*[ALIBABA CLOUD](https://id.alibabacloud.com/)
+Untuk informasi lengkapnya jangan lupa kunjungi juga:
+⋅⋅-[DeveloperHandal](https://devhandal.id?reference=KYGJP)
+⋅⋅-[CODEPOLITAN](https://www.codepolitan.com/)
+⋅⋅-[ALIBABA CLOUD](https://id.alibabacloud.com/)
 
 Semoga sukses! :D
